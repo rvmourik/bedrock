@@ -10,7 +10,7 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 
 ## Features
 
-* Better folder structure
+* Better folder structuredfggdfg
 * Dependency management with [Composer](https://getcomposer.org)
 * Easy WordPress configuration with environment specific files
 * Environment variables with [Dotenv](https://github.com/vlucas/phpdotenv)
